@@ -10,9 +10,8 @@
 
 ### 📌 Sobre a Atividade
 
-Nesta atividade foi solicitado a criação de um formulário
+Nesta atividade foi solicitado a criação de um formulário solicitando "Nome do Produto" e "Preço", integrando os dados enviados ao banco de dados exercicio, criado na interface gráfica MySQL Workbench. Os dados deveriam ser validados antes de serem enviados, pois ambos deveriam ser preenchidos e o preço não pode ser menor ou igual a 0.
 
-O projeto conta com navegação interna (`#sobre`, `#projetos`, `#contato`), apresentação das minhas qualificações no curso técnico, tabela  organizando alguns dos meus projetos desenvolvidos até o momento e um formulário completo para contato.
 
 ---
 ### 👩‍💻 Informações da Atividade
@@ -45,12 +44,14 @@ Virtual Studio Code| Ambiente onde foi realizado os códigos
 
 ---
 
-###  Objetivos Concluídos
-
-[x] Capturar e validar requisições enviadas via método POST.   [x] Construir uma interface interativa em HTML5 com formulário de cadastro para entrada de dados.   [x] Validar os dados no backend garantindo que o preço do produto seja um valor numérico positivo ($> 0$).   [x] Estabelecer a conexão entre o PHP e o banco de dados MySQL via extensão mysqli.   [x] Realizar a inserção de dados (INSERT INTO) na tabela produtos do banco de dados exercicio.   [x] Retornar mensagens visuais de sucesso ou erro e aplicar o redirecionamento/recarregamento automático da página com header(). 
----
+### - Objetivos Concluidos
+- [x] Capturar e validar requisições enviadas via método POST
+- [x] Construir uma interface interativa em HTML5 com formulário de cadastro para entrada de dados.
+- [x] Validar os dados no backend garantindo que o preço do produto seja um valor numérico positivo ($> 0$).
+- [x] Estabelecer a conexão entre o PHP e o banco de dados MySQL via extensão mysqli e MySQL Workbench.
+- [x] Realizar a inserção de dados (INSERT INTO) na tabela produtos do banco de dados exercicio
 
 ###  Como me ajudou:
->Compreendi a importância de uma boa estrutura semântica em HTML, pratiquei o uso de tipografia e teoria das cores aprendidos em aula,e entendi como organizar informações de maneira estruturada na web, integrando navegação, tabelas e formulários em uma única página.
+>Compreendi  na prática a integração de uma programação Backend com o Frontend e Banco de Dados, assim relacionando a importância de enviar os dados de um formulário via método POST, com a validação e inserção dos dados na tabela e o tratamento dessas informações no PHP.
 
 ---
